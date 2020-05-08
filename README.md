@@ -1,6 +1,8 @@
-# Feliz Template
+# Feliz TodoMVC
 
-This template gets you up and running with a simple web app using [Fable](http://fable.io/), [Elmish](https://fable-elmish.github.io/) and [Feliz](https://github.com/Zaid-Ajaj/Feliz).
+A (WIP) implementation of the classic TodoMVC using [Fable](http://fable.io/), [Elmish](https://fable-elmish.github.io/) and [Feliz](https://github.com/Zaid-Ajaj/Feliz).
+
+# Instructions for using this project, and others based on the Feliz templates
 
 ## Requirements
 
